@@ -41,7 +41,7 @@ library
     , yesod
   default-language: Haskell2010
 
-executable api-exe
+executable api
   main-is: Main.hs
   other-modules:
       Paths_api

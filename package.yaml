@@ -33,7 +33,7 @@ library:
   source-dirs: src
 
 executables:
-  api-exe:
+  api:
     main:                Main.hs
     source-dirs:         src
     ghc-options:
